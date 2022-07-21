@@ -13,6 +13,7 @@ Curso platzi
 * Es un excelente curso con grandes aprendizajes
 * Creado por el increible Platzi team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 # Aquí voy a agregar una imagen de mi personaje favorito
 <a href="https://imgur.com/g10u9hT"><img src="https://i.imgur.com/g10u9hT.jpg" title="source: imgur.com" /></a>
